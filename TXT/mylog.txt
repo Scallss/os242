@@ -2,6 +2,15 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W05 30 L25 C-language including Make.
+ZCZC W05 50 L00 L00 General, etc.
+ZCZC W05 60 L08 OS Chat related with Friend
+ZCZC W05 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05 45 L43 TXT/myrank.txt related
+ZCZC W05 100 L16 Assignment #06
+ZCZC W05 60 L07 Demo related
+ZCZC W05 50 L23 Bash, Regex, SED, AWK.
+ZCZC W05 50 L05 Quiz related including studying
 ZCZC W04 45 L43 TXT/myrank.txt related, including peer review.
 ZCZC W04 35 L03 GitHub and git related, including commit, push, pull
 ZCZC W04 240 L70 Studying for other courses.
