@@ -2,6 +2,14 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W07 180 L70 Studying for other courses.
+ZCZC W07 60 L01 SCELE/Discord related
+ZCZC W07 40 L00 L00 General, etc.
+ZCZC W07 60 L07 Demo related
+ZCZC W07 50 L25 C-language including Make.
+ZCZC W07 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 20 L43 TXT/myrank.txt related
+ZCZC W07 180 L17 Assignment #07
 ZCZC W06 140 L70 Studying for other courses.
 ZCZC W06 60 L01 SCELE/Discord related
 ZCZC W06 50 L00 L00 General, etc.
